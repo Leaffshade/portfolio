@@ -96,7 +96,7 @@
         p2_name: "Sécurité alimentaire mondiale", p2_desc: "Analyse de la sécurité alimentaire mondiale afin d’étudier les inégalités de disponibilité alimentaire et la sous-nutrition entre les pays.",
         p3_name: "Analyse du marché immobilier français", p3_desc: "Création et exploitation d’une base de données relationnelle afin d’analyser le marché immobilier français à l’aide de requêtes SQL et de données structurées.",
         p4_name: "Optimisation et analyse des données d’une boutique", p4_desc: "Nettoyage, fusion et analyse de données commerciales afin d’optimiser le suivi des ventes, des stocks et des performances produits avec Python.",
-        p5_name: "Resto-Universitaire", p5_desc: "Application de gestion centralisée pour la restauration universitaire, incluant le suivi des repas et la facturation.",
+        p5_name: "Project Monitoring Dashboard", p5_desc: "Suivi et analyse de l'avancement des projets avec visualisation des indicateurs clés de performance (KPI) via Power BI.",
         proj_more: "Voir tous les projets",
 
         // --- Contact ---
@@ -243,7 +243,7 @@
         p2_name: "World food security analysis", p2_desc: "Global food security analysis to study inequalities in food availability and undernutrition across countries.",
         p3_name: "French real estate market analysis", p3_desc: "Creation and analysis of a relational database to explore the french real estate market using SQL queries and structured datasets.",
         p4_name: "Retail data optimization and analysis", p4_desc: "Data cleaning, merging, and business analysis to optimize sales, stock monitoring, and product performance using Python.",
-        p5_name: "Resto-Universitaire", p5_desc: "Centralized management application for university dining, including meal tracking and billing.",
+        p5_name: "Project Monitoring Dashboard", p5_desc: "Project tracking and progress analysis with visualization of key performance indicators (KPIs) using Power BI.",
         proj_more: "View all projects",
 
         // --- Contact ---
