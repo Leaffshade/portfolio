@@ -62,7 +62,7 @@
         exp_subtitle: "Chaque expérience professionnelle m’a permis de développer des compétences concrètes à travers des projets réels en entreprise.",
         
         // --- Experience 1 ---
-        exp1_period: "Mai 2022 — Nov. 2024", exp1_company: "DIMMBIZZ LIMITED — Goes,Pays-Bas",
+        exp1_period: "Mai 2022 — Nov. 2024", exp1_company: "DIMMBIZZ LIMITED — Goes, Pays-Bas",
         exp1_role: "Dévelopeuse Web",
         exp1_d1: "Développement de sites web sous WordPress (Wordpress, PHP, CSS)",
         exp1_d2: "Création d'un projet de réservation en ligne en React avec Bootstrap.",
@@ -101,7 +101,7 @@
 
         // --- Contact ---
         contact_label: "Restons en contact", contact_title: "Travailler ensemble ?",
-        contact_desc: "Je suis actuellement disponible pour des opportunités de stage, ou alternance. N'hésitez pas à me contacter — je réponds rapidement !",
+        contact_desc: "Je suis actuellement ouverte aux opportunités en tant que Data Analyst Junior. N'hésitez pas à me contacter — je réponds rapidement !",
         contact_email: "Email", contact_phone: "Téléphone",
         cta_title: "Discutons de votre projet 💬",
         cta_sub: "Toujours partant pour de nouveaux défis techniques et des projets innovants.",
@@ -248,7 +248,7 @@
 
         // --- Contact ---
         contact_label: "Let's connect", contact_title: "Work together?",
-        contact_desc: "I'm currently available for internship or apprenticeship opportunities. Don't hesitate to reach out — I respond quickly!",
+        contact_desc: "I'm currently open to opportunities as a Junior Data Analyst. Don't hesitate to reach out — I respond quickly!",
         contact_email: "Email", contact_phone: "Phone",
         cta_title: "Let's discuss your project 💬",
         cta_sub: "Always up for new technical challenges and innovative projects.",
