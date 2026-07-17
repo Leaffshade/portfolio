@@ -77,8 +77,8 @@
         
         // --- Experience 3 ---
         exp3_period: "Juin 2016 — Août 2016", exp3_company: "United Arab Emirates, France",
-        exp3_role: "Femme de chambre",
-        exp3_d1: "Nettoyage et entretien des chambres.",
+        exp3_role: "Housekeeping Attendant",
+        exp3_d1: "Services et entretien en hôtellerie de luxe.",
         // exp3_d2: "Développement avec Python (Flask), HTML, CSS, JavaScript et le moteur de template Jinja.",
         //exp3_d3: "Gestion d'une base de données MySQL pour le stockage et l'accès aux données fiscales.",
         
@@ -225,7 +225,7 @@
         // --- Experience 3 ---
         exp3_period: "June 2016 — August 2016", exp3_company: "United Arab Emirates — France",
         exp3_role: "Housekeeping Attendant",
-        exp3_d1: "Cleaning and maintaining rooms.",
+        exp3_d1: "Guest services and housekeeping in luxury hospitality.",
         //exp3_d2: "Developed using Python (Flask), HTML, CSS, JavaScript, and the Jinja template engine.",
         //exp3_d3: "MySQL database management for storing and easily accessing tax data.",
         
