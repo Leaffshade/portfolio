@@ -98,6 +98,7 @@
         p4_name: "Optimisation et analyse des données d’une boutique", p4_desc: "Nettoyage, fusion et analyse de données commerciales afin d’optimiser le suivi des ventes, des stocks et des performances produits avec Python.",
         p5_name: "Project Monitoring Dashboard", p5_desc: "Suivi et analyse de l'avancement des projets avec visualisation des indicateurs clés de performance (KPI) via Power BI.",
         p6_name: "Pipeline DBT avec Snowflake", p6_desc: "Création d'un pipeline de transformation de données avec DBT et Snowflake afin de nettoyer, structurer et fiabiliser des données étudiants. Analyse de leur répartition par région, âge et genre, avec une comparaison aux données publiques de l'INSEE.",
+        p7_name: "Statistiques & séries temporelles", p7_desc: "Analyse exploratoire, tests statistiques et modélisation de séries temporelles réalisés à partir d'un jeu de données musical. Le projet met en œuvre différentes méthodes d'analyse afin d'identifier des relations entre les variables et de produire des prévisions avec Prophet.",
         proj_more: "Voir tous les projets",
 
         // --- Contact ---
@@ -246,6 +247,7 @@
         p4_name: "Retail data optimization and analysis", p4_desc: "Data cleaning, merging, and business analysis to optimize sales, stock monitoring, and product performance using Python.",
         p5_name: "Project Monitoring Dashboard", p5_desc: "Project tracking and progress analysis with visualization of key performance indicators (KPIs) using Power BI.",
         p6_name: "DBT Pipeline with Snowflake", p6_desc: "Built a data transformation pipeline using DBT and Snowflake to clean, structure, and improve the reliability of student data. Analyzed the distribution of students by region, age, and gender, and compared the results with public data from the French National Institute of Statistics and Economic Studies (INSEE).",
+        p7_name: "Statistics & Time Series Analysis", p7_desc: "Exploratory data analysis, statistical testing, and time series modeling based on a music dataset. This project applies various analytical methods to identify relationships between variables and generate forecasts using Prophet.",
         proj_more: "View all projects",
 
         // --- Contact ---
