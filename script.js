@@ -101,6 +101,7 @@
         p7_name: "Statistiques & séries temporelles", p7_desc: "Analyse exploratoire, tests statistiques et modélisation de séries temporelles réalisés à partir d'un jeu de données musical. Le projet met en œuvre différentes méthodes d'analyse afin d'identifier des relations entre les variables et de produire des prévisions avec Prophet.",
         p8_name: "Analyse de l’accès à l’eau potable dans le monde", p8_desc: "Tableau de bord Power BI analysant l’accès à l’eau potable dans le monde à l’aide de la modélisation des données, de DAX et de visualisations interactives.",
         p9_name: "Étude de marché internationale avec Python", p9_desc: "Analyse de 172 pays à partir de données open data afin d’identifier des marchés potentiels. Utilisation d’une ACP, de la CAH et de K-Means pour segmenter les pays et formuler des recommandations métier.",
+        p10_name: "Détection de faux billets par Machine Learning", p10_desc: "Développement d’un modèle de classification permettant d’identifier automatiquement les billets authentiques et contrefaits à partir de leurs caractéristiques géométriques. Comparaison de plusieurs algorithmes de Machine Learning, évaluation de leurs performances et intégration du modèle retenu dans une application Python de prédiction.",
         proj_more: "Voir tous les projets",
 
         // --- Contact ---
@@ -252,6 +253,7 @@
         p7_name: "Statistics & Time Series Analysis", p7_desc: "Exploratory data analysis, statistical testing, and time series modeling based on a music dataset. This project applies various analytical methods to identify relationships between variables and generate forecasts using Prophet.",
         p8_name: "Global Water Access Analysis", p8_desc: "Power BI dashboard analyzing global access to drinking water using data modeling, DAX and interactive visualizations.",
         p9_name: "International Market Analysis with Python", p9_desc: "Analysis of 172 countries using open data to identify potential international markets. Use of PCA, Hierarchical Clustering and K-Means to segment countries and develop business recommendations.",
+        p10_name: "Counterfeit Banknote Detection", p10_desc: "Development of a classification model to automatically identify genuine and counterfeit banknotes from their geometric characteristics. Comparison of several machine learning algorithms, performance evaluation, and integration of the selected model into a Python prediction application.",
         proj_more: "View all projects",
 
         // --- Contact ---
